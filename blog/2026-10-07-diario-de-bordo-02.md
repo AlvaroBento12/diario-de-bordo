@@ -2,7 +2,7 @@
 title: "Pós Release 1 — 2026-10-07"
 authors: [ALVR]
 tags: [pos-R1]
-date: 2026-07-10
+date: 2026-10-07
 ---
 
 <!--
